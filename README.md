@@ -116,7 +116,12 @@ Below, I'll outline the key steps, technologies, and features required to build 
 
 ---
 
-### 7. **Future Enhancements**
+### 7. **GUI Development**
+   - Create an appealing, authoritative and patriotic design.
+
+---
+
+### 8. **Future Enhancements**
    - **Local Government Integration**: Extend the platform to include local government officials (mayors, city council members, etc.).
    - **Petition System**: Allow users to create petitions and gather signatures from other constituents.
    - **Event Calendar**: Representatives can post events (town halls, Q&A sessions) that users can RSVP to.
@@ -124,5 +129,5 @@ Below, I'll outline the key steps, technologies, and features required to build 
 
 ---
 
-### 8. **Conclusion**
+### 9. **Conclusion**
 This project combines elements of social media platforms like Facebook with civic engagement tools. By allowing users to easily find and interact with their representatives, you can foster better communication between citizens and their elected officials. With careful planning, robust development, and attention to security, this platform could become a valuable tool for civic participation.
