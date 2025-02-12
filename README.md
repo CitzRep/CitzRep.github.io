@@ -26,7 +26,7 @@ Below, I'll outline the key steps, technologies, and features required to build 
    - **Authentication**:
      - Firebase Authentication or Auth0 for secure user login and registration.
    - **Geolocation & Address Lookup**:
-     - Use APIs like [Google Civic Information API](https://developers.google.com/civic-information) or [OpenStates API](https://openstates.org/api/) to fetch representatives based on user addresses.
+     - Use APIs from [Google Maps API](https://developers.google.com/maps) and [Google Civic Information API](https://developers.google.com/civic-information) to autofill addresses and fetch representatives based on user addresses.
    - **Hosting**:
      - AWS, Google Cloud, or Heroku for hosting the application.
    - **Real-Time Communication**:
